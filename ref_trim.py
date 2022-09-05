@@ -15,8 +15,9 @@ os.mkdir(os.path.join(save_folder))
 
 for filename in files:
     with open(os.path.join(ref_folder, filename)) as f:
-        f.readline()
+        title = f.readline()
         seq = f.read()
         spike = seq[i1+trim:i2-trim]
         with open(os.path.join(save_folder, 'spike_' + filename), 'w') as f_spike:
+            f_spike.write(title)
             f_spike.write(spike)
