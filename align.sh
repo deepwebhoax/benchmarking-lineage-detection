@@ -38,7 +38,7 @@ then
 echo "$ref"
 echo "$reads"
 
-out_dir="$(dirname ${reads})/res_$(date '+%Y-%m-%d_%H:%M:%S')"
+out_dir="$(dirname ${reads})/res_align"
 mkdir ${out_dir}
 echo "$out_dir"
 samtools view -bS -T "$ref" -o "${out_dir}/out.bam" $reads
