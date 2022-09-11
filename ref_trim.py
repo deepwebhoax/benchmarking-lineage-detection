@@ -18,6 +18,7 @@ for filename in files:
         title = f.readline()
         seq = f.read()
         spike = seq[i1+trim:i2-trim]
+         
         with open(os.path.join(save_folder, 'spike_' + filename), 'w') as f_spike:
             f_spike.write(title)
             f_spike.write(spike)

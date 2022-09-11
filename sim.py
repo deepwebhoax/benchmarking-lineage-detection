@@ -14,7 +14,8 @@ def simulate_mixture(ref_folder):
     """
     output_dir_taged = output_dir + str(len(os.listdir('datasets')))
     os.mkdir(output_dir_taged)
-    refs = os.listdir(ref_folder)
+    # get fasta files 
+    refs = [f for f in os.listdir(ref_folder) if f.endswith('.fasta')]
 
     for i, ref in enumerate(refs):
         read_num = int(proportions[i%len(proportions)] * reads_total)
