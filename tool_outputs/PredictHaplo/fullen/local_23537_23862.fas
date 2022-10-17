@@ -1,0 +1,75 @@
+>reconstructed_0
+;Freq:0.0659074
+;Overlap quality scores (5,10):18,0
+;Confidence scores
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~d~~~~a~aa~~aaLa~aaa
+;EndOfComments
+GCACGTAGTGTAGCTAGTCAATCCATCATTGCCTACACTATGTCACTTGGTGCAGAAAATTCAGTTGCTT
+ACTCTAATAACTCTATTGCCATACCCACAAATTTTACTATTAGTGTTACCACAGAAATTCTACCAGTGTC
+TATGACCAAGACATCAGTAGATTGTACAATGTACATTTGTGGTGATTCAACTGAATGCAGCAATCTTTTG
+TTGCAATATGGCAGTTTTTGTACACAATTAAAACGTGCTTTAACTGGAATAGCTGTTGAACAAGACAAAA
+ACACCCAAGAAGTTTTTGCACAAGTCAAACAAATTTACAAAACACC
+>reconstructed_1
+;Freq:0.291582
+;Overlap quality scores (5,10):71,61
+;Confidence scores
+;pppppwpqqqwkwqqqwqwqqqwqlllllkwl~grrbhheseesenafbofffeeeeesesn~sn~ffn
+;fffsf~fffosfo^ofososf~fbsofcotoogogggtcggggggotgggpgtgggtgtoggggggg~t
+;ggtgtokggkkxo~~o~oo~on~njmmm~mmmmmninn~n~~xssssx~~~~~ssxxxxxsx~xx~~xx
+;xxrxx~x~~xx~xxxxx~rxww~~wwww~wwrrrww~rmhmhmmmxdm_clb]bllaqfaafkwkaaak
+;kkaa_p^ddccTcSSbb]OPHSNFF]NSFFEE~E~PD~N]]KK??P?PPd
+;EndOfComments
+TCATTGCCTACACTATGTCACTTGGTGTAGAAAATTCAGTTGCTTACTCTAATAACTCTATTGCCATACC
+CACAAATTTTACTATTAGTGTTACCACAGAAATTCTACCAGTGTCTATGACCAAGACTTCAGTAGATTGT
+ACAATGTACATTTGTGGTGATTCAACTGAATGCAGCAATCTTTTGTTGCAATATGGCAGTTTTTGTACAC
+AATTAAACCGTGCTTTAACTGGAATAGCTGTTGAACAAGACAAAAACACCCAAGAAGTTTTTGCACAAGT
+CAAACAAATTTACAAAACACCACCAATTAAAGATTTTGGTGGTTTT
+>reconstructed_2
+;Freq:0.185597
+;Overlap quality scores (5,10):60,43
+;Confidence scores
+;B=h??J?JA~A~CjCjCEOEEEBBB~K>BBLClCBAmOmmFF?FmGGnJJNNWoNWNWWWWNoWWo]o]
+;S]oSoo\Q~QQaUnVaaVaaanVVVVVV\VaVaVVanVVVVaaVVVV[[ffm[~[ngng[n[mfZfZmZ
+;Tm__meem~mmmm~mmm~m~m~mnn~~ngnmmmffmmn~n~nm~mmfmmmmm~n~nnnnnn~nnn~n~n
+;~nn~n~un~uuuu~~~u~~~~~~~~~~~~~~~~~~~~~~~~~~~u~~~~~~~~~~~~~~~~~~~~~~~~
+;~~uu~ttttt~ss~~j~ktkttbjahYaaaai~Z~sZ~bjaYYYaYaaSj
+;EndOfComments
+CAGACTAATTCTCCTCGGCGGGCACGTAGTGTAGCTAGTCAATCCATCATTGCCTACACTATGTCACTTG
+GTGCAGAAAATTCAGTTGCTTACTCTAATAACTCTATTGCCATACCCACAAATTTTACTATTAGTGTTAC
+CACAGAAATTCTACCAGTGTCTATGACCAAGACATCAGTAGATTGTACAATGTACATTTGTGGTGATTCA
+ACTGAATGCAGCAATCTTTTGTTGCAATATGGCAGTTTTTGTACACAATTAAACCGTGCTTTAACTGGAA
+TAGCTGTTGAACAAGACAAAAACACCCAAGAAGTTTTTGCACAAGT
+>reconstructed_3
+;Freq:0.270425
+;Overlap quality scores (5,10):69,55
+;Confidence scores
+;QQQQn]o]T~T~pUXXoocYYppZ[~j_``kp`aqqafaaaaaabbbbccrchddmdmmmms`mmdmdm
+;dmdmddmsxddmddsmmsmmmdrrrmcrbcmrrggrgggghrrhhhmrhrrhhxhhrhrrhhhrhrrhh
+;hhhhrhhrmlmrxmxmmmmmrrxxxssxxs~~xxxx~~x~~~~~~~~~~~~~~~~~~~~~~~x~~~~~~
+;~~~~~~~~~~~~~~~~~~x~~~~~~~~~~~~~~~~x~xxxxxxxxxxxxx~mr~~mmrm~rmmrmmrll
+;llwl~llllllgg~~gqg~fqqbllbbaaaaawa~q`~```_[[[[ZVVj
+;EndOfComments
+TCATATGAGTGTGACATACCCATTGGTGCAGGTATATGCGCTAGTTATCAGACTCAGACTAATTCTCATC
+GGCGGGCACGTAGTGTAGCTAGTCAATCCATCATTGCCTACACTATGTCACTTGGTGCAGAAAATTCAGT
+TGCTTACTCTAATAACTCTATTGCCATACCCATAAATTTTACTATTAGTGTTACCACAGAAATTCTACCA
+GTGTCTATGACCAAGACATCAGTAGATTGTACAATGTACATTTGTGGTGATTCAACTGAATGCAGCAATC
+TTTTGTTGCAATATGGCAGTTTTTGTACACAATTAAACCGTGCTTT
+>reconstructed_4
+;Freq:0.186488
+;Overlap quality scores (5,10):44,37
+;Confidence scores
+;<9P>P:P:7k:tWW<RRR<<>KRCCt??C??RW?RKV>]VB>??W=AYEESAAYEAIEEEIYYEIYI^I
+;IN_WleLWtLHLLl^RKVKKPkVVkkcc[[[c[[[[tUUjjjbbbbjZbba~ktctk~kctctkdkd~k
+;d~dddddktdk]kteme~e~mueeettlltlllmumuuu~uuuuuu~u~~~~~~~~~~u~~~~~~~~~u
+;~u~u~uuu~u~uu~u~uu~~~uuuuuuuuuuu~uuuuu~~~uuu~~uuunnunnnnunn~nnnnn~umu
+;mmmmuummumull~tlllttlllll~tltldt~k~dd~d~tdkjcksbbj
+;EndOfComments
+GTGCAGGTATATGCGCTAGTTATCAGACTCAGACTAATTCTCGTCGGCGGGCACGTAGTGTAGCTAGTCA
+ATCCATCATTGCCTACACTATGTCACTTGGTGCAGAAAATTCAGTTGCTTACTCTAATAACTCTATTGCC
+ATACCCACAAATTTTACTATTAGTGTTACCACAGAAATTCTACCAGTGTCTATGACCAAGACATCAGTAG
+ATTGTACAATGTACATTTGTGGTGATTCAACTGAATGCAGCAATCTTTTGTTGCAATATGGCAGTTTTTG
+TACACAATTAAACCGTGCTTTAACTGGAATAGCTGTTGAACAAGAC
